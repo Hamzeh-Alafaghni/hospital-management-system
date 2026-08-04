@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Code/Code.iml" filepath="$PROJECT_DIR$/Code/Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaseStudyBuilder/CaseStudyBuilder.iml" filepath="$PROJECT_DIR$/CaseStudyBuilder/CaseStudyBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaseStudyComposite/CaseStudyComposite.iml" filepath="$PROJECT_DIR$/CaseStudyComposite/CaseStudyComposite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finalProject/Code.iml" filepath="$PROJECT_DIR$/finalProject/Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hospital-management-system.iml" filepath="$PROJECT_DIR$/.idea/hospital-management-system.iml" />
     </modules>
   </component>
